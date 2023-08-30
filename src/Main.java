@@ -24,7 +24,7 @@ public class Main {
         } while (anzahlVersuche < 3);
 
         if(anzahlVersuche == 3){
-            throw new HackerAlarm("Vorsicht, Hackerangriff!");
+            throw new HackerAlarm("Anzahl der Versuche überschritten");
         }
 
         if(resultSet.next()) {
