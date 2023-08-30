@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Abschluss:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Abschluss_jar</output-path>
+    <root id="archive" name="Abschluss.jar">
+      <element id="module-output" name="Abschluss" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Connector J 8.0/mysql-connector-j-8.0.33.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
